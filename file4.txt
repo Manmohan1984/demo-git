@@ -1,0 +1,1 @@
+This is 1st line of file4.txt of branch b2
